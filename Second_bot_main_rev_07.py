@@ -9,7 +9,7 @@ from telegram import InlineQueryResultArticle, InputTextMessageContent, InlineKe
 from io import BytesIO
 from PIL import Image
 
-TOKEN = '1398916161:AAHtdQaPpOolSMHIlwhc6ZaEP7jHQwKAVow'
+TOKEN = 'YOUR_TOKEN_HERE'
 # username = c19stat_2020_bot, name = C19 Stat
 PORT = int(os.environ.get('PORT', 5000))
 NUM_COUNTRIES_IN_SET = 10
